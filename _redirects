@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects. Intentionally empty.
+# Clean URLs and directory index files resolve natively, so no rules are needed here.
+# Add real legacy-path redirects below only if old URLs ever need to be preserved.
